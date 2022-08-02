@@ -1,4 +1,4 @@
-[
+var areaCodes = [
     1,
     7,
     20,
